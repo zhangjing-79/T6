@@ -10,6 +10,7 @@ public class Client
 		System.out.println("Github is response 001,服务器端已经收到message001");
 		System.out.println("Github want to insert......");
 		System.out.println("Client want to update......");
+		System.out.println("Github want to insert222222");
 	}
 
 }
