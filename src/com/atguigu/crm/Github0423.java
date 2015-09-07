@@ -10,5 +10,11 @@ public class Github0423
 		System.out.println("Github update the product");
 		System.out.println("local 2015.9.7");
 		System.out.println("local update the block");
+		System.out.println("Github get the infos,程序员01 commit。。。。。。");
+		System.out.println("程序猿1 delete the product");
+		System.out.println("Github update the product");
+		System.out.println("local 2015.9.7");
+		System.out.println("Github need this block.....");
+
 	}
 }
