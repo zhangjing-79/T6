@@ -8,5 +8,6 @@ public class Github0423
 		System.out.println("local new commit");
 		System.out.println("local new commit2");
 		System.out.println("Github----------");
+		System.out.println("local第一次提交");
 	}
 }
