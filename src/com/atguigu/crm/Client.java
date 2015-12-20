@@ -8,6 +8,7 @@ public class Client
 		System.out.println("local update ..............");
 		System.out.println("github need ..........................");
 		System.out.println("localServer update here");
+		System.out.println("github come here 0719");
 	}
 
 }
